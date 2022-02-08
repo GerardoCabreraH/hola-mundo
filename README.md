@@ -1,3 +1,3 @@
 # hola-mundo
 
-Repositorio de Github
+Repositorio introductoria de Github
